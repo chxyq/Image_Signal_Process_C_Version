@@ -1,3 +1,2 @@
-use g++ *.cpp -o app
-./app
-achieve raw24 to raw8
+use g++ *.cpp -o app to makefile
+use ./app to achieve raw24 to raw8
